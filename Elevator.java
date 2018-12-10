@@ -1,4 +1,4 @@
-class Question1 {
+class ElevatorQuestion1 {
 	// First ask the interviewer what kind of elevator?  
 	// there is only one elevator serving that building or multiple elevators serving the building simultaneously?
 	// this situation is that: there is one elevator serving the building.  there are many floors in the buliding. 
